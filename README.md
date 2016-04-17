@@ -9,3 +9,5 @@ For people that don't know git, Github's [learn git in 15 minutes](https://try.g
 ## Notes
 
 This is an experiment to test the Git workflow with official document creation. Meta discussions are also welcome to improve the workflow of document creation and editing. Document creation is not the original intent of git and this project may run into problems with the way git handles diffs.
+
+During the heavy content development phase we'll use markdown files for the basic structure of the document (headers, text, links, etc...). Later during the polish phase it may be beneficial to switch to LaTex for a more robust formatting.
