@@ -1,2 +1,0 @@
-# Funding and Staff
-

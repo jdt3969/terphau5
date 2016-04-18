@@ -1,12 +1,14 @@
 # Contents
 
-### 1 Details
-1.1 Summary  
-1.2 Objectives  
-1.3 Timing  
-
-
-### 2 Benefits and Cost
-2.1 Benefits  
-2.2 Funding and Staff  
-2.3 Detailed Benefits and Cost  
+1. Summary
+2. Introduction
+3. Needs/Problems
+4. Goals/Objectives
+5. Procedures/Scope of Work
+6. Timetable
+7. Budget
+8. Key Personnel
+9. Evaluation
+10. Endorsements
+11. Next Steps
+12. Appendix
