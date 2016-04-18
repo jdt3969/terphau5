@@ -18,7 +18,7 @@
 
 {Description here}
 
-### Give UMD Alum the Best Chance to Succeed in Silicon Valley
+### Give UMD Alumni the Best Chance to Succeed in Silicon Valley
 
 {Description here}
 
