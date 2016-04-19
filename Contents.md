@@ -4,6 +4,7 @@
 2. Introduction
 3. Needs/Problems
 4. Goals/Objectives
+5. Benefits
 5. Procedures/Scope of Work
 6. Timetable
 7. Budget
