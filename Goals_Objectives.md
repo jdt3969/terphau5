@@ -1,4 +1,4 @@
-# Objectives
+# Goals / Objectives
 
 {Objectives Summary}
 
