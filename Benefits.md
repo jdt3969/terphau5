@@ -23,6 +23,6 @@
 ### Host Current Students that are Traveling
 - Seeing students "making it" will inspire even more students to become entrepreneurs
 
-{Description}
-
 ### UMD becoming an elite tech school
+
+{Description}
