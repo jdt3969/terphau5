@@ -30,7 +30,13 @@ A proposal for a UMD subsidized house in SF to facilitate the transition from st
 
 For people that don't know git, Github's [learn git in 15 minutes](https://try.github.io/levels/1/challenges/1) tutorial is extremely helpful. However, knowing git is not a requirement for contributing. The easiest way to contribute is by creating an issue through Github and discussing changes. These changes could be as small as a spelling mistake or it could be about a larger issue like content. The other main way to contribute will be through pull requests. Pull requests will require some knowledge of git.
 
-Look for anything contained in curly braces
+Issues will be used for discussion of content, changes to the overall plan, and they will be used by people to reccomend any changes if they don't know git.
+
+Actual changes to content will be done through forks and pull requests.
+
+Look for anything contained in curly braces as this is a meta-comment on what should go in that particular place.
+
+Ideally save grammar and spelling changes for bigger sweeps of entire sections. Make note of them as an issue.
 
 ## Dev Phase
 
