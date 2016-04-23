@@ -35,7 +35,7 @@ Website: http://www.120-10th.com/
 | ------------- | ----------------- | --------- |
 | Rent   		| $25,000.00 		| ${fill} 	|
 | Utilities		| ${fill} 			|
-| ...   		| $0.00 			|
+| Operating   	| $6,250.00 		|
 
 ### Propery R2
 {Description of Property, Location Advantages, etc..}
