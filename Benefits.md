@@ -26,3 +26,7 @@
 ### UMD becoming an elite tech school
 
 {Description}
+
+### Recruiting Efforts
+
+{Description}
